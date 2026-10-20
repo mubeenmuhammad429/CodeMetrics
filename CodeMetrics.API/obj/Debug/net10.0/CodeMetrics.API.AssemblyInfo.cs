@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeMetrics.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f206b69dc5694c55e84ad7925d2980c6690352c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff6de0d8f818ad67e13ec1ff6449e822529718c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeMetrics.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeMetrics.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
